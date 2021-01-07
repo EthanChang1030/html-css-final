@@ -1,0 +1,196 @@
+*{
+    margin: 0;
+}
+
+.nav{
+    background-color: white;
+    height: 10vh;
+}
+
+.smallS{
+    position: absolute;
+    width: 3%;
+    padding-top: 1%;
+    padding-left: 1%;   
+}
+
+.SiRio {
+    position: absolute;
+    color: #1B7092;
+    font-size: 35px;
+    font-weight: bold;
+    padding-top: 1%;
+    padding-left: 5%;
+}
+
+.account{
+    float: right;
+    color: white;
+    margin: 1%;
+    padding: 0.2%;
+    font-size: 32px;
+    border-radius: 80px;
+    background-color: #1B7092;
+
+}
+
+.sign1{
+    float: right;
+    color: grey;
+    margin: 1%;
+    font-size: 32px;
+}
+
+.bottom{
+    background-color: #a9d1e2 ;
+    height: 90vh;
+}
+
+.group3{
+    transform: translate(670px,-382px) scale(0.6);
+}
+
+.whitebox{
+    transform: translate(545px,100px);
+    height:400px;
+    width:400px;
+    background-color: white;
+    border-style:10px solid white;
+    border-radius: 10px;
+}
+
+.signin{
+    color:#1B7092;
+    font-size: 3em;
+    font-weight: bold;
+    transform: translate(110px,60px);
+}
+
+.email{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    height: 20px;
+    width: 60px;
+    background-color: #41809b;
+    border-top-right-radius: 10px;
+    transform: translate(40px, 90px);
+}
+
+.whitesmallbox{
+    height: 45px;
+    width: 320px;
+    background-color:#a9d1e2 ;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    transform: translate(40px,90px);
+}
+
+.password{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    height: 20px;
+    width: 80px;
+    background-color: #41809b;
+    border-top-right-radius: 10px;
+    transform: translate(40px, 120px);
+}
+
+.whitesmallbox2{
+    height: 45px;
+    width: 320px;
+    background-color:#a9d1e2 ;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    transform: translate(40px,120px);
+}
+/* --------------------------------------------------------------- */
+
+.nav{
+    background-color: white;
+}
+.Hello{
+    float: right;
+    color: gray;
+    margin: 2%;
+    font-size: 32px;
+}
+.group24{
+    float: right;
+    margin-top: 1%;
+}
+
+.left-grid{
+    display: grid;
+    color: #1B7092;
+    background-color: white;
+    font-weight: bold;
+    font-size: 2rem;
+    margin-left: 0%;
+}
+
+.a, .b,.c,.e,.f,.g,.h{
+    margin: 1%; 
+}
+
+.i{
+    margin-top: 160px;
+}
+
+.group5{
+    transform: translate(180px,-40px);
+}
+
+.right-grid{
+    display: grid;
+    background-color:#a9d1e2 ;
+    height: 100%;
+    width: 75%;
+}
+/* --------------------------------- */
+
+.flex-container{
+    display: flex;
+}
+
+.left{
+    height: 100vh;
+    width:75%;
+    float: left;
+    background-color: white;
+}
+
+.stuzzo{
+    width: 35px;
+    height: 45px;
+    margin-top: 2%;
+    margin-left: 2%;
+}
+
+.stuzzotex{
+    font-size: 25px;
+    font-weight: bold;
+    transform: translate(76px,-38px);
+}
+
+.g59{
+    height: 40px;
+    width: 80px;
+    transform: translate();
+}
+
+.right{
+    height: 100vh;
+    width: 25%;
+    float: right;
+    background-color: turquoise;
+}
+
+.bay{
+    float: right;
+    height: 80px;
+    width: 80px;
+    margin-top: 4%;
+    margin-right: 1%;
+}
